@@ -28,10 +28,10 @@ The sample dataset provides an obfuscated Google Analytics 360 dataset that can 
 # Sources
 ## Big Query
 
--[Documentation]: <https://cloud.google.com/bigquery/docs>
--[Running Parametrized Queries]: <https://cloud.google.com/bigquery/docs/parameterized-queries#python>
--[Query multiple tables using a wildcard table]: <https://cloud.google.com/bigquery/docs/querying-wildcard-tables>
--[Export Guide]: <https://support.google.com/analytics/topic/3416089?hl=en&ref_topic=2430414>
+[Documentation]: <https://cloud.google.com/bigquery/docs>
+[Running Parametrized Queries]: <https://cloud.google.com/bigquery/docs/parameterized-queries#python>
+[Query multiple tables using a wildcard table]: <https://cloud.google.com/bigquery/docs/querying-wildcard-tables>
+[Export Guide]: <https://support.google.com/analytics/topic/3416089?hl=en&ref_topic=2430414>
 
 ## Other sources
 
